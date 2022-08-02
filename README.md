@@ -38,7 +38,7 @@ targeted at developers, including:
 
 1. The ability to see all the files in your project at once and organize them
    from within the editor
-2. Syntax highlight, making it easier to see the different between variables,
+2. Syntax highlight, making it easier to see the difference between variables,
    hardcoded values, methods, parameters, ...
 3. Syntax validation, which highlights syntax errors in real-time while you're
    typing your code - no need to wait until you compile your code to see your
