@@ -3,7 +3,6 @@
 ## Learning Goals
 
 - Explain the differences between text editors, code editors, and IDEs
-- Install IntelliJ Community Edition
 
 ## Introduction
 
@@ -69,8 +68,8 @@ following types of features:
    additional languages which are common usually (such as Javascript, HTML and
    CSS)
 2. Supports all the features of that language
-3. Full featured integration with source code management tools, such as Github
-4. Full featured integration with build tools, such as Maven
+3. Full-featured integration with source code management tools, such as Github
+4. Full-featured integration with build tools, such as Maven or Gradle
 5. Integrated debugger, which allows us to step through each line of code as the
    JVM executes it
 6. Support for additional tools, such as diagramming and UI design
@@ -78,6 +77,3 @@ following types of features:
 One of the most popular IDEs for Java is IntelliJ. It will support everything
 you need today, is very easy to get up and running (because it's dedicated to
 Java) and has many features that make the life of a Java developer easier.
-
-JetBrains offers a community editor of IntelliJ for free:
-https://www.jetbrains.com/idea/download/
