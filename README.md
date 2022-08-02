@@ -1,4 +1,4 @@
-# Pick an IDE
+# Editors vs. IDEs
 
 ## Learning Goals
 
