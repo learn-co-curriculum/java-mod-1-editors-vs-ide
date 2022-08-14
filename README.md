@@ -15,9 +15,9 @@ possible.
 
 There are 3 types of tools with which you can write code:
 
-1. Text editor
-2. Code editor
-3. Integrated Development Environment (IDE)
+1. Text editor.
+2. Code editor.
+3. Integrated Development Environment (IDE).
 
 ## Text editor
 
@@ -37,26 +37,26 @@ A code editor is a specialized text editor that has many features specifically
 targeted at developers, including:
 
 1. The ability to see all the files in your project at once and organize them
-   from within the editor
+   from within the editor.
 2. Syntax highlight, making it easier to see the difference between variables,
-   hardcoded values, methods, parameters, ...
+   hardcoded values, methods, and parameters.
 3. Syntax validation, which highlights syntax errors in real-time while you're
    typing your code - no need to wait until you compile your code to see your
-   potential errors
-4. Ability to compile and run your code from within the code editor
-5. Integration with source code management tools, such as Github
+   potential errors.
+4. Ability to compile and run your code from within the code editor.
+5. Integration with source code management tools, such as GitHub.
 
 Some code editors also offer plugins to support additional functionality for
 specific languages. Microsoft Visual Studio Code is a free code editor, and
 offers coding pack for Java, which is also free:
-https://code.visualstudio.com/docs/languages/java.
+<https://code.visualstudio.com/docs/languages/java>.
 
 The advantages of a Code Editor over a text editor are obvious. The advantages
 over an IDE are more subjective, as code editors like VS Code can be customized
 to be almost as powerful as IDEs (which we'll discuss next) and do have the
 advantage of being cheaper (or free), more customizable and lighter weight. They
 can, however, take more work to configure properly and can almost never be
-configured to support 100% of the features that a mature full fledged IDE
+configured to support 100% of the features that a mature full-fledged IDE
 supports.
 
 ## IDE
@@ -66,13 +66,13 @@ following types of features:
 
 1. Generally dedicated to a specific language (like Java), but have support for
    additional languages which are common usually (such as Javascript, HTML and
-   CSS)
-2. Supports all the features of that language
-3. Full-featured integration with source code management tools, such as Github
-4. Full-featured integration with build tools, such as Maven or Gradle
+   CSS).
+2. Supports all the features of that language.
+3. Full-featured integration with source code management tools, such as GitHub.
+4. Full-featured integration with build tools, such as Maven or Gradle.
 5. Integrated debugger, which allows us to step through each line of code as the
-   JVM executes it
-6. Support for additional tools, such as diagramming and UI design
+   JVM executes it.
+6. Support for additional tools, such as diagramming and UI design.
 
 One of the most popular IDEs for Java is IntelliJ. It will support everything
 you need today, is very easy to get up and running (because it's dedicated to
